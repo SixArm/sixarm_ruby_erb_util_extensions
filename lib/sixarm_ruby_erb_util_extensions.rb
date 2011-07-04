@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 =begin rdoc
 
 = SixArm Ruby Gem: ERB Util Extensions
@@ -11,9 +13,9 @@ Wrap the methods from the html_output gem into module ERB::Util
 
 =end
 
-require 'sixarm_ruby_html' 
+require 'sixarm_ruby_html'
 require 'actionpack'
-require 'erb' 
+require 'erb'
 
 class ERB
  module Util
