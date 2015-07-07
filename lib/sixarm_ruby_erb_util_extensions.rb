@@ -13,9 +13,9 @@ Wrap the methods from the html_output gem into module ERB::Util
 
 =end
 
-require 'sixarm_ruby_html'
-require 'actionpack'
-require 'erb'
+require "sixarm_ruby_html"
+require "actionpack"
+require "erb"
 
 class ERB
  module Util
