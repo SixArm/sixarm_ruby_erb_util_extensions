@@ -1,4 +1,4 @@
-# Ruby » <br> ERB Util Extensions
+SixArm.com → Ruby → <br> ERB Util Extensions
 
 * Docs: <http://sixarm.com/sixarm_ruby_erb_util_extensions/doc>
 * Repo: <http://github.com/sixarm/sixarm_ruby_erb_util_extensions>
